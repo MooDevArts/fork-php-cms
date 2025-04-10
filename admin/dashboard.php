@@ -11,6 +11,11 @@ include( 'includes/header.php' );
 ?>
 
 <ul id="dashboard">
+<li>
+    <a href="songs.php">
+      Manage Songs
+    </a>
+  </li>
   <li>
     <a href="projects.php">
       Manage Projects
